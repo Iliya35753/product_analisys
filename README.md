@@ -24,17 +24,11 @@
 **[AB_test/ab_test_analysis.ipynb](AB_test/ab_test_analysis.ipynb)**  
 Проверка гипотезы об изменении оформления интерфейса. Используются Z-test, визуализация, логистическая регрессия.
 
-📊 Также сделан интерактивный дашборд в Power BI — **[ab_test_dashboard.pbix](AB_test/ab_test_dashboard.pbix)**
-
 ### 🧮 SQL-анализ метрик
 **[SQL/product_metrics_analysis.sql](SQL/product_metrics_analysis.sql)**  
 Подсчёт ARPU, AOV, ARPPU, Retention. Примеры бизнес-метрик на языке SQL.
 
-### 📈 Power BI дашборды
-- **[PowerBI/streaming_dashboard.pbix](PowerBI/streaming_dashboard.pbix)** — дашборд на данных Spotify  
-- **[PowerBI/retail_dashboard.pbix](PowerBI/retail_dashboard.pbix)** — дашборд по транзакциям в рознице
 
----
 
 ## 📬 Контакты
 
