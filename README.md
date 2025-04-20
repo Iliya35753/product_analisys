@@ -25,7 +25,7 @@
 Проверка гипотезы об изменении оформления интерфейса. Используются Z-test, визуализация.
 
 ### 🧮 SQL-анализ метрик
-**[SQL/product_metrics_analysis.sql](SQL/product_metrics_analysis.sql)**  
+**[SQL/product_metrics_analysis.sql](SQL)**  
 Подсчёт ARPU, AOV, ARPPU, Retention. Примеры бизнес-метрик на языке SQL.
 
 ### 📊 Retail Sales Dashboard (Power BI)
